@@ -1,0 +1,20 @@
+{
+  "name": "rafiqsimple-calculator",
+  "version": "1.0.1",
+  "description": "A simple calculater with typescript node.js and inquarair",
+  "main": "index.js",
+  "type": "module",
+"bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafiq ullah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
